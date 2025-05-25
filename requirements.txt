@@ -1,0 +1,7 @@
+echo "yfinance
+numpy
+pandas
+matplotlib
+torch
+scikit-learn
+scipy" > requirements.txt
