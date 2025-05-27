@@ -156,6 +156,7 @@ The analysis generates comprehensive reports including:
 - Malliavin calculus research community for mathematical foundations
 
 ## 📧 Contact
+
 Yavuz Akbay - akbay.yavuz@gmail.com
 
 ⭐️ If this project helped with your financial analysis, please consider giving it a star!
